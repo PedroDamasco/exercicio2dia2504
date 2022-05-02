@@ -1,7 +1,7 @@
 # Exercicio 2 Dia 25/04/2022
 Exercicio 2 dia 25.04.2022
 
--Perguntar condição ao cliente; 
+-Abrir opções ao cliente faça;
   - 1 -> Idoso (a)
   - 2 -> Deficiente
   - 3 -> Gestante 
