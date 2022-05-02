@@ -17,7 +17,7 @@ public class Aula6 {
 		// Scanner recebido \\
 		
 		// Resolução do problema com variacao ou , utilizando um simples metodo de escolha do usuario
-		if (n1 == 1 || n1 == 2 || n1== 3 || n1>= 4 ) 
+		if (n1 == 1 || n1 == 2 || n1== 3) 
 		System.out.printf("Você tem direito a uma vaga preferencial");
 		else // caso contrario nao tem direito a vaga preferencial
 			System.out.print("Vaga comum.");
