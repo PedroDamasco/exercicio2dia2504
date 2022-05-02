@@ -11,5 +11,5 @@ Exercicio 2 dia 25.04.2022
   - Se for igual ou maior que 4 Faça
     -  Não tem direito a vaga especial.
     -  Fim.
-   -Fim
--Fim
+  -  -Fim.
+-Fim.
